@@ -1,0 +1,6 @@
+interface:
+  display_name: "Be Global Knowledge Assets Updater"
+  short_description: "Propaga contenido PRO al dashboard Be Global"
+  default_prompt: "Usa $beglobal-knowledge-assets-updater para incorporar este nuevo corpus al dashboard con vistas Base, PRO y Comparativa."
+policy:
+  allow_implicit_invocation: true
